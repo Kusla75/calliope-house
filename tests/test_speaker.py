@@ -1,3 +1,5 @@
+# This script tests display and speaker of calliope mini
+
 from calliope_mini import *
 import music
 
@@ -15,7 +17,7 @@ img_1 = Image('09090:90909:09090:90909:09090:')
 img_2 = Image('90909:09090:90909:09090:90909:')
 
 # this function plays a melody and switches between 
-# two display patterns .This function can be improved 
+# two display patterns. This function can be improved 
 # using multiprocessing
 def play(pom, img_1, img_2):
     music.stop()
