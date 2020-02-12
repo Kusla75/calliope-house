@@ -1,5 +1,5 @@
-# This script temperature sensor. It reads temperature value
-# from sensor and it displays it on the display
+# This script tests the temperature sensor. It reads temperature value
+# from the sensor and it displays it on the LED display
 
 from calliope_mini import *
 

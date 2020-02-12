@@ -1,4 +1,4 @@
-# This script tests display and speaker of calliope mini
+# This script tests LED display and speaker of calliope mini
 
 from calliope_mini import *
 import music
